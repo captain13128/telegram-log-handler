@@ -12,6 +12,6 @@ setup(
     author_email='capitan.develop@gmail.com',
     description='',
     install_requires=[
-        'python-telegram-bot==11.1.0',
+        'python-telegram-bot==13.11.0',
     ],
 )
